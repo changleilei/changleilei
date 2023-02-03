@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray
-- 👀 I’m interested in Python, NLP, AI.
-- 🌱 I’m currently learning Skateboarding, Cooking, play games
+- 👀 I’m interested in Python, NLP, AIGC.
+- 🌱 I’m currently learning Cooking, and like play games
 - 💞️ I’m looking to collaborate on AI releated
 - 📫 How to reach me 852324033@qq.com
 
